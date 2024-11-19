@@ -1,0 +1,9 @@
+{
+	"name": "qrlabdatafactory",
+	"location": "norwayeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "beb852f5-298d-44ce-a055-686a8977868d",
+		"tenantId": "6522d049-fe1f-498b-b884-4e0b5e004ced"
+	}
+}
